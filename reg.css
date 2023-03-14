@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    /* background-image: url('download (1).jpg'); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: white;
+    text-decoration: solid;
+    border-block: unset;
+    font-size: 25px;
+    
+
+}
+h1{
+    color: darkmagenta;
+    text-decoration: underline;
+
+}
+.bordered{
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    background-color: pink;
+    /* box-sizing: inherit; */
+    /* padding: 20px; */
+
+}
+button{
+    background-color: black;
+    color: white;
+}
